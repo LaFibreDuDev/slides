@@ -36,8 +36,8 @@ Un enjeu essentiel
 - **Chiffres clés** : ~15% de la population mondiale vit avec un handicap.
   - Handicaps visuels (aveugles, malvoyants)
   - Handicaps auditifs (surdité, problèmes auditifs)
-  - Handicaps auditifs (paralysie, troubles neuromusculaires)
-  - Handicaps moteurs (dyslexie, autisme)
+  - Handicaps moteurs (paralysie, troubles neuromusculaires)
+  - Handicaps cognitifs/intellectuels (dyslexie, autisme)
 
 - **Barrières numériques** : Obstacles rencontrés par ces utilisateurs.
 - **Accessibilité : un bénéfice pour tous !**
@@ -250,8 +250,8 @@ Non, fort heureusement ! On utilise des documentations. Par exemple la plus conn
 
 ### Petites remarques
 
-- Le HTML s'apprends **en deux semaines minimum**
-- On apprends pas tout par coeur
+- Le HTML s'apprend **en deux semaines minimum**
+- On apprend pas tout par coeur
   - On vous apprends à aller lire des documentations
 - Vous allez progresser avec de la pratique (2h/jour)
 - Les réflexes viennent avec beaucoup de pratique et d'habitudes (Dèv junior VS dèv sénior)
@@ -311,7 +311,7 @@ NB: Attention, Javascript (JS) n'est pas égal à Java
 
 ### Comment on fait de la programmation ?
 
-On a la palette utilisé par le développeur (artiste). On apprend à parler une nouvelle langue (comme l'anglais par ex) :
+On a la palette utilisée par le développeur (artiste). On apprend à parler une nouvelle langue (comme l'anglais par ex) :
 
 - des variables
   - booléens, nombres, chaines de caractères
@@ -328,7 +328,7 @@ NB: Avoir l'esprit logique, pour partir d'un problème et arriver à une solutio
 ### Un exemple de code JS
 
 - Prérequis : Une bonne **logique** + Apprentissage de la syntaxe
-- Rôle du programme : ajouter de l'interactivité. Exemple avec l'agrandissement du texte. Le code sera lu et exécutée dans l'ordre (du haut vers le bas).
+- Rôle du programme : ajouter de l'interactivité. Exemple avec l'agrandissement du texte. Le code sera lu et exécuté dans l'ordre (du haut vers le bas).
 - Chaque ligne correspondant à une instruction
 
 ```html
